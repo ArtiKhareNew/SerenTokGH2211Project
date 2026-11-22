@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.serentokgh2211.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">SerenTokGH2211Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">SerenTokGH2211Project.project.serentokgh2211.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-test512495-um-0.int-test512495.svc.cluster.local:9000/</value>
+  <value name="clientId">EMd3040b8e1f614ef8851875eb454c5cb5</value>
+  <value name="securityProtocol"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Arti.Khare@ibm.com</value>
+    <value name="createdDate">2026-11-22T13:15:37.848006258Z</value>
+    <value name="modifiedBy">Arti.Khare@ibm.com</value>
+    <value name="lastModifiedDate">2026-11-22T13:15:37.848006258Z</value>
+  </record>
+</Values>
